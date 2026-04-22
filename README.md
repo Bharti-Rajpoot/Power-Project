@@ -1,6 +1,5 @@
 README.md
 # Power BI Project
-
 This project shows data analysis using Power BI.
 
 ## Tools Used
@@ -11,3 +10,5 @@ This project shows data analysis using Power BI.
 - Top product performance
 
 ## Dashboard Preview
+![Dashboard](Hranalyticsproject.png)
+<H1> Bharti Rajpoot </H1>
